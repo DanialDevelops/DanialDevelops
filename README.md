@@ -7,9 +7,9 @@ I’m passionate about coding and technology, and I love exploring new ideas and
 - 🌱 I’m currently learning **advanced AWS architecture** (Disaster Recovery, High-Availability, S3 event notifications, Auto Scaling, caching strategies).
 - 👯 I’m looking to collaborate on **Chrome extensions**, **React/TypeScript web apps**, and **AWS-powered full-stack projects**.
 - 💬 Ask me about **React**, **Node.js**, **AWS Solutions Architect**, **Chrome extension development**, or **fitness & nutrition**.
-- 📫 How to reach me: **danial.choudhry@enrichemployment.ca**
+- 📫 How to reach me: **danial@enrichemployment.ca**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I built an internal employee-scheduler used by 200+ staff at Enrich Employment, and I’m currently on a 1,600-calorie diet while training for a push-pull-legs split!  
+- ⚡ Fun fact: I built an internal employee-scheduler used by 200+ staff at Enrich Employment 
 
 ## Skills & Technologies
 - **Languages:** JavaScript (ES6+), TypeScript, Python  
